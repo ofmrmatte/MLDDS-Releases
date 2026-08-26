@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.11",
-  "releaseDate": "2026-08-25T12:22:37.1016592+00:00",
+  "version": "3.0.12",
+  "releaseDate": "2026-08-26T12:56:14.7899983+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.11/MLDDS-3.0.11-Setup.exe",
-  "sha256": "3f4ade12b04a04343a3cc79fc5d1fa198568eb6d5ef963b23192fc950c549f8d",
-  "signature": "8zO3J+V4r6LQrTNgUY5OqIhbmgKN8ZbgQxbsXof5hSa7X6jWdcWC8LVJkJZOzafMmu+mpnNR1Eypx0FSS7PA3w==",
-  "releaseNotes": "MLDDS 3.0.11 stable: relatório XLSX; regra de 10% não visitados; popup arrastável; updater online; melhorias de KM, classificação, destinos, documentação e estabilidade.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.12/MLDDS-3.0.12-Setup.exe",
+  "sha256": "4a59a75e3a9e0637d66ebbd2005a21dc52cf1260e9db31ee7ad6cf9900c9cb49",
+  "signature": "sw1al1N0/jeRb9/yLSCbCkF25DIYHFfc2MemWoB9GQkLAqFvqji2v4KOFFj0TcfWiq64pT0CnAB2CB40P3kFNg==",
+  "releaseNotes": "MLDDS 3.0.12 stable: pipeline determinístico, recuperação de tabelas, fallback Maps/Imgur, loop e auditoria fail-closed, preservação de configurações no upgrade.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.8"
