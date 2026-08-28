@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.12",
-  "releaseDate": "2026-08-26T12:56:14.7899983+00:00",
+  "version": "3.0.13",
+  "releaseDate": "2026-08-28T01:36:12.4250644+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.12/MLDDS-3.0.12-Setup.exe",
-  "sha256": "4a59a75e3a9e0637d66ebbd2005a21dc52cf1260e9db31ee7ad6cf9900c9cb49",
-  "signature": "sw1al1N0/jeRb9/yLSCbCkF25DIYHFfc2MemWoB9GQkLAqFvqji2v4KOFFj0TcfWiq64pT0CnAB2CB40P3kFNg==",
-  "releaseNotes": "MLDDS 3.0.12 stable: pipeline determinístico, recuperação de tabelas, fallback Maps/Imgur, loop e auditoria fail-closed, preservação de configurações no upgrade.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.13/MLDDS-3.0.13-Setup.exe",
+  "sha256": "77c6f10eec10e3eb6652fb01f643e39b287b03234416f3979c244a86111897f9",
+  "signature": "S9FbEjz3c6KQ68GOA9fEoAgAxEo0WdcdeNBRsmIm5+tcyq4eDHmn18nrAeXDfDUJhlrX3WN0wIM1IBvvRo25Iw==",
+  "releaseNotes": "MLDDS 3.0.13 stable: rota não realizada, regra +10% não visitado, recovery de destinos/fretes/KM, Maps/Imgur materializado, snapshot e Native Messaging 2.0.9.",
   "mandatory": false,
   "channel": "stable",
-  "extensionVersionRequired": "2.0.8"
+  "extensionVersionRequired": "2.0.9"
 }
