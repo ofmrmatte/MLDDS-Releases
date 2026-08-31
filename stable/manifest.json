@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.13",
-  "releaseDate": "2026-08-28T01:36:12.4250644+00:00",
+  "version": "3.0.14",
+  "releaseDate": "2026-08-31T11:29:24.5115483+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.13/MLDDS-3.0.13-Setup.exe",
-  "sha256": "77c6f10eec10e3eb6652fb01f643e39b287b03234416f3979c244a86111897f9",
-  "signature": "S9FbEjz3c6KQ68GOA9fEoAgAxEo0WdcdeNBRsmIm5+tcyq4eDHmn18nrAeXDfDUJhlrX3WN0wIM1IBvvRo25Iw==",
-  "releaseNotes": "MLDDS 3.0.13 stable: rota não realizada, regra +10% não visitado, recovery de destinos/fretes/KM, Maps/Imgur materializado, snapshot e Native Messaging 2.0.9.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.14/MLDDS-3.0.14-Setup.exe",
+  "sha256": "97d2e321494bb168a0781e0b213b0bed806ded4f6a0e6ad61cc95d8d87285ec4",
+  "signature": "/yanx74V2Ex01XEzTnmIe4CnFCJg4ehktE6RuUenfCRKaKNWZJRa+NHgnqHoyBf/0+Vq7zvbTA9xfjl6v5RpFw==",
+  "releaseNotes": "MLDDS 3.0.14 stable: Rede MLDDS, Global Knowledge Sync, Global Routing Memory, Knowledge Assistant conversacional, CombinedRules estruturados, Inteligência 3.1, retomada pós-Save e extensão 2.0.10. Após atualizar, recarregue manualmente a extensão em chrome://extensions.",
   "mandatory": false,
   "channel": "stable",
-  "extensionVersionRequired": "2.0.9"
+  "extensionVersionRequired": "2.0.10"
 }
