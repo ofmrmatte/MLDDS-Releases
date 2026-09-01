@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.15",
-  "releaseDate": "2026-09-01T18:06:14.0544476+00:00",
+  "version": "3.0.16",
+  "releaseDate": "2026-09-01T18:47:29.7873153+00:00",
   "minimumSupportedVersion": "3.0.13",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.15/MLDDS-3.0.15-Setup.exe",
-  "sha256": "2bdea1fec5d24d6c0f9f30320fe9d3223c6730ecfa199c25a41edfac1b91d32e",
-  "signature": "aC8InZT+CDpUOauxI1XDqvkek2T2LvqV4ay/4fe9TK3PM3Gtn2hNziFhQqrYkZcyG4PHc4Yh2chY4u2I/TcPtw==",
-  "releaseNotes": "MLDDS 3.0.15 — C&V, Shadow Mode, corredor logístico e inteligência operacional.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.16/MLDDS-3.0.16-Setup.exe",
+  "sha256": "7ca3dc687ced6648c5b07d522b7fa0c44a3ff9fc87f96d48e683acc9a8b8b3ad",
+  "signature": "sEqfB39wOpigtpVauMnPjYmEBqUGGoC0lln/ZSwSgDxIO8kvSChFsNJxKql0IFGI6wbPsNBOmPT7Lh7z+zB33w==",
+  "releaseNotes": "MLDDS 3.0.16 — regra de corredor por ordem, progressão e geometria, sem limite arbitrário de 5 km / 5%.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.10"
