@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.16",
-  "releaseDate": "2026-09-01T18:47:29.7873153+00:00",
+  "version": "3.0.17",
+  "releaseDate": "2026-09-07T12:15:03.7313867+00:00",
   "minimumSupportedVersion": "3.0.13",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.16/MLDDS-3.0.16-Setup.exe",
-  "sha256": "7ca3dc687ced6648c5b07d522b7fa0c44a3ff9fc87f96d48e683acc9a8b8b3ad",
-  "signature": "sEqfB39wOpigtpVauMnPjYmEBqUGGoC0lln/ZSwSgDxIO8kvSChFsNJxKql0IFGI6wbPsNBOmPT7Lh7z+zB33w==",
-  "releaseNotes": "MLDDS 3.0.16 — regra de corredor por ordem, progressão e geometria, sem limite arbitrário de 5 km / 5%.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.17/MLDDS-3.0.17-Setup.exe",
+  "sha256": "b24525a27d034d822e8f3408399422a1ae91ff3f590bd5b72fc9f72ceea73c6b",
+  "signature": "t3RGCGFVVVtlBu8BPEURgm5fohq7jxzEml1LshBsqFTGo7LEC3vGAQXWlXIwf6iqd8N8eon7vDAN80nyApDEHA==",
+  "releaseNotes": "MLDDS 3.0.17 — bootstrap DDS, Pesquisa/GridReady confirmados, execução em background e estabilidade operacional.",
   "mandatory": false,
   "channel": "stable",
-  "extensionVersionRequired": "2.0.10"
+  "extensionVersionRequired": "2.0.12"
 }
