@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.17",
-  "releaseDate": "2026-09-07T12:15:03.7313867+00:00",
+  "version": "3.0.18",
+  "releaseDate": "2026-09-08T02:45:13.5430624+00:00",
   "minimumSupportedVersion": "3.0.13",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.17/MLDDS-3.0.17-Setup.exe",
-  "sha256": "b24525a27d034d822e8f3408399422a1ae91ff3f590bd5b72fc9f72ceea73c6b",
-  "signature": "t3RGCGFVVVtlBu8BPEURgm5fohq7jxzEml1LshBsqFTGo7LEC3vGAQXWlXIwf6iqd8N8eon7vDAN80nyApDEHA==",
-  "releaseNotes": "MLDDS 3.0.17 — bootstrap DDS, Pesquisa/GridReady confirmados, execução em background e estabilidade operacional.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.18/MLDDS-3.0.18-Setup.exe",
+  "sha256": "4620d818d12f89494ec2f8745b1fa765be2a182bc192e46291d48969850db2b8",
+  "signature": "1YE7SZm/YjlzqNt0+w2lIIF8hkOf7/lXGKTU/mebJJNhe5qd/yIbmOmny2v4jsU+qqnqmKe79FE1ukDL6WWfZQ==",
+  "releaseNotes": "MLDDS 3.0.18 — correções operacionais de escrita DDS, pós-execução e startup desacoplado.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
