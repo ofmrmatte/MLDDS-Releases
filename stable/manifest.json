@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.18",
-  "releaseDate": "2026-09-08T02:45:13.5430624+00:00",
+  "version": "4.0.0",
+  "releaseDate": "2026-09-10T17:28:29.7805375+00:00",
   "minimumSupportedVersion": "3.0.13",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v3.0.18/MLDDS-3.0.18-Setup.exe",
-  "sha256": "4620d818d12f89494ec2f8745b1fa765be2a182bc192e46291d48969850db2b8",
-  "signature": "1YE7SZm/YjlzqNt0+w2lIIF8hkOf7/lXGKTU/mebJJNhe5qd/yIbmOmny2v4jsU+qqnqmKe79FE1ukDL6WWfZQ==",
-  "releaseNotes": "MLDDS 3.0.18 — correções operacionais de escrita DDS, pós-execução e startup desacoplado.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.0.0/MLDDS-4.0.0-Setup.exe",
+  "sha256": "e09b2687dbd2d2be811b7d6380311326f6715106b57b8e51d03c816eda0723d0",
+  "signature": "Cr2n2pyi/h7f9DQLYkO1vPXcITTCpLRp7KD+UfjH/Y+FmxOIF5vn4T1fQmr1NsfIfSLzW8T0k7QLys/Jyky0OA==",
+  "releaseNotes": "MLDDS 4.0.0: Mercado Livre interno, captura API-first, menor latência, operação sem roubo de foco, regras sincronizadas, Histórico, Ajustes Manuais, exportação Excel e correções de estabilidade.",
   "mandatory": false,
   "channel": "stable",
-  "extensionVersionRequired": "2.0.12"
+  "extensionVersionRequired": ""
 }
