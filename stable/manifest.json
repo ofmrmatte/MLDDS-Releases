@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.1",
-  "releaseDate": "2026-09-11T10:05:23.6074278+00:00",
+  "version": "4.0.2",
+  "releaseDate": "2026-09-14T14:26:51.5037742+00:00",
   "minimumSupportedVersion": "3.0.13",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.0.1/MLDDS-4.0.1-Setup.exe",
-  "sha256": "bda2a629596abbd5cf5cf1b4f89f2a0ed1d408bfe680e8f584317c6ccadeac26",
-  "signature": "kwFsOjNoZgjRa3DEjGpRHlX2Ng2j58X0jwcmOWfwuDwOsELo4mdtxrtr04jHqoF6EIABbFgjtvQHne8W7F/9Vw==",
-  "releaseNotes": "MLDDS 4.0.1: recuperação operacional, snapshots concorrentes, atualizador visível, revisão em massa, regras locais duráveis e alinhamento da interface.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.0.2/MLDDS-4.0.2-Setup.exe",
+  "sha256": "ab732e0197b03942c114be5e08c022618bafaf503e4943430817d0cb9e81d08c",
+  "signature": "5iimTwx5c3hX4Bb2zo8CjCKQMhOOc8Dmd4uS0IsoSQXyzmu1XQ1352GXRhpofe/uSr7r5M6879VyympspCYDjw==",
+  "releaseNotes": "MLDDS 4.0.2: sincronização global de regras via Turso, correções de escopo e bases, sessão ML persistente, evidência de rota e KM revalidado nos modos sem cálculo de compra.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
