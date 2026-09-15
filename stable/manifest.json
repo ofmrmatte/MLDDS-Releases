@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.2",
-  "releaseDate": "2026-09-14T15:24:18.3598454+00:00",
+  "version": "4.1.3",
+  "releaseDate": "2026-09-15T02:24:43.3896775+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.2/MLDDS-4.1.2-Setup.exe",
-  "sha256": "64bfeea85933b02123d788dfc6095804f627e79f40779130845acd1d6b9cce3e",
-  "signature": "mH3WBBhGZ6Zd5u9C50N4bUYOKiEs0CX5sXxiuXJaLxmHnmrs0kca5dtNMfYaBQzwGCCfEYZJ4wsn4hZ1EvKvHw==",
-  "releaseNotes": "Corrige o Start com checkpoint anterior ao Save, reutiliza a grade Geral já comprovada e preserva a próxima minuta aberta sem avanço duplicado.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.3/MLDDS-4.1.3-Setup.exe",
+  "sha256": "a56f69b130bf96ae1aa7baabc987ee33f3b66d330ab96d7bfba0b84f57f1312f",
+  "signature": "L1bKlKFrvHdhCGZD+JqZLgFJHWlXhKVNqU/6r7R3NPmbSJgxVltDK9lNCiVse1ze1sQslANoIxxSqn4SZbP0lw==",
+  "releaseNotes": "Corrige a atualização de tabelas após mudança de classificação, reduz a preparação da Pesquisa DDS e preserva KM e evidência Maps/Imgur após o cálculo de Venda.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
