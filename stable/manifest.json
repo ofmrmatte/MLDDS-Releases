@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.3",
-  "releaseDate": "2026-09-15T02:24:43.3896775+00:00",
+  "version": "4.1.4",
+  "releaseDate": "2026-09-16T16:56:34.6378599+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.3/MLDDS-4.1.3-Setup.exe",
-  "sha256": "a56f69b130bf96ae1aa7baabc987ee33f3b66d330ab96d7bfba0b84f57f1312f",
-  "signature": "L1bKlKFrvHdhCGZD+JqZLgFJHWlXhKVNqU/6r7R3NPmbSJgxVltDK9lNCiVse1ze1sQslANoIxxSqn4SZbP0lw==",
-  "releaseNotes": "Corrige a atualização de tabelas após mudança de classificação, reduz a preparação da Pesquisa DDS e preserva KM e evidência Maps/Imgur após o cálculo de Venda.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.4/MLDDS-4.1.4-Setup.exe",
+  "sha256": "dc2377752844fc09a3047db31f96992857a660b547d03fdffa5bc50bc9a688b9",
+  "signature": "f2LnsdRbrq8UI8XZ+/RcwxQ0bXFxHk48XQlM7gD7+mhrCg9nyzsGL0CN0Z5zY9xSphWiKMYXDm2fd0LP4P//zQ==",
+  "releaseNotes": "MLDDS 4.1.4: operações sincronizadas e persistentes, avanço seguro entre bases, Alterações de Minutas, atualização com reinício e listas compactas.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
