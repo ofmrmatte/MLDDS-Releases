@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.4",
-  "releaseDate": "2026-09-16T16:56:34.6378599+00:00",
+  "version": "4.1.5",
+  "releaseDate": "2026-09-17T11:15:36.0784311+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.4/MLDDS-4.1.4-Setup.exe",
-  "sha256": "dc2377752844fc09a3047db31f96992857a660b547d03fdffa5bc50bc9a688b9",
-  "signature": "f2LnsdRbrq8UI8XZ+/RcwxQ0bXFxHk48XQlM7gD7+mhrCg9nyzsGL0CN0Z5zY9xSphWiKMYXDm2fd0LP4P//zQ==",
-  "releaseNotes": "MLDDS 4.1.4: operações sincronizadas e persistentes, avanço seguro entre bases, Alterações de Minutas, atualização com reinício e listas compactas.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.5/MLDDS-4.1.5-Setup.exe",
+  "sha256": "039838aacd31631b0e035ae85dac694a273c9ac89ec681a88e6db97dbae8a206",
+  "signature": "f2+rVfyNwABYWZJRKF2+63tDX1nNPh7kuEN1gA/d1tE4vq5gU5O2WzJcznTZyE7/JCTW5TlyBpQw/Dde4FaPXQ==",
+  "releaseNotes": "MLDDS 4.1.5: contadores confiáveis, placeholders sem bloqueio, captura estável, evidência com readback e histórico global com filtros funcionais.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
