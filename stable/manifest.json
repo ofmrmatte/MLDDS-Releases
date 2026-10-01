@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.5",
-  "releaseDate": "2026-09-17T11:15:36.0784311+00:00",
+  "version": "4.1.6",
+  "releaseDate": "2026-10-01T18:00:12.8064689+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.5/MLDDS-4.1.5-Setup.exe",
-  "sha256": "039838aacd31631b0e035ae85dac694a273c9ac89ec681a88e6db97dbae8a206",
-  "signature": "f2+rVfyNwABYWZJRKF2+63tDX1nNPh7kuEN1gA/d1tE4vq5gU5O2WzJcznTZyE7/JCTW5TlyBpQw/Dde4FaPXQ==",
-  "releaseNotes": "MLDDS 4.1.5: contadores confiáveis, placeholders sem bloqueio, captura estável, evidência com readback e histórico global com filtros funcionais.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.6/MLDDS-4.1.6-Setup.exe",
+  "sha256": "2da1852a9021306b883d4b2f13383d634720600441b6efb195df562371f770bb",
+  "signature": "Uk4biSc8/VEk+n9QQUKefayZ2Wjwk8SeLK2TMFPSnMgeeaEBjRRJmhBh/zBVViyicv8M7Z+xVjYoJvyQQRPUtw==",
+  "releaseNotes": "Captura interna e retomada seguras; rota 100% transferida; Save DDS 168/171; atualização com reabertura e proteção contra reconexão do Bridge; inicialização e apresentação mais responsivas.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
