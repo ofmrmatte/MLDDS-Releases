@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.8",
-  "releaseDate": "2026-10-07T14:37:10.2266326+00:00",
+  "version": "4.1.9",
+  "releaseDate": "2026-10-20T13:27:35.4329136+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.8/MLDDS-4.1.8-Setup.exe",
-  "sha256": "8c1e474bb2ae210ba9cdbf6f54c771001f9855c7fe7371eba256ca3c55563f5e",
-  "signature": "eFz7/5FIhtJMuUm+VIEpP27TxigMXgLSbBfd9RmcGGn1daOau+3QBgpwk0NHoceBPZyGqQ32LHUYJRfbfuD4rw==",
-  "releaseNotes": "MLDDS 4.1.8 — Pedágios por planilha diretamente no DDS, sem Enter, com readback e Save confirmado; retomada protegida, descarte com auditoria e motorista na lista.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.9/MLDDS-4.1.9-Setup.exe",
+  "sha256": "cbb86da2457aa3b12f6d478aca414dcd0f1b9b783f753ea35c310127743da9b1",
+  "signature": "+6JrXYylFVuTYwVICYOjkNlh9iLeGhodDhPjZr3Xh2U+mk1vIROpwb4Qj78I0d0YjqfxARKzPvTnpakJERJegA==",
+  "releaseNotes": "MLDDS 4.1.9 — Cadastro Méli integrado por minuta, consulta por nome e operação, reuso de motoristas, cadastro de placas, seleção de bases e roteirização; busca de placa otimizada com espera mínima de quatro segundos e readback obrigatório.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
