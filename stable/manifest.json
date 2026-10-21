@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.10",
-  "releaseDate": "2026-10-20T17:35:30.4068271+00:00",
+  "version": "4.1.11",
+  "releaseDate": "2026-10-21T19:17:05.8205902+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.10/MLDDS-4.1.10-Setup.exe",
-  "sha256": "563b8dc46a0fb7f8218044ce99978f9ccea678c3c92a3f6cf11bf7ec9045d5eb",
-  "signature": "FCeUnePGyx0zoXJUtFfKhWxzswwLczbtzvGeZQxmbmnpsinxWNUhKTsXuFFWw+UOYK76c78btzCS+y5rl/pFSQ==",
-  "releaseNotes": "Corrige placas com texto adicional e descarte de lotes sem cópia temporária. Preserva veículos, cadastros e auditoria.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.11/MLDDS-4.1.11-Setup.exe",
+  "sha256": "defc5f8f6ee2507b0812a05581e262c68c4c929a3b85cafdd77d5030e91b6613",
+  "signature": "xNMlCejZVNlZ6DtJc3ZrLRqVfDpWSED2+mac1JKwYtQ/I9Vv/rhtIXVjjsFTyoBUdCpHhcTDqnvYJAqwgTVPTQ==",
+  "releaseNotes": "Cadastro de placa usa TRAÇÃO. Espera mínima da busca de placa reduzida para dois segundos, mantendo validação e readback.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
