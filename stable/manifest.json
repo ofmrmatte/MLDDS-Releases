@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.11",
-  "releaseDate": "2026-10-21T19:17:05.8205902+00:00",
+  "version": "4.1.12",
+  "releaseDate": "2026-11-04T12:07:18.5244932+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.11/MLDDS-4.1.11-Setup.exe",
-  "sha256": "defc5f8f6ee2507b0812a05581e262c68c4c929a3b85cafdd77d5030e91b6613",
-  "signature": "xNMlCejZVNlZ6DtJc3ZrLRqVfDpWSED2+mac1JKwYtQ/I9Vv/rhtIXVjjsFTyoBUdCpHhcTDqnvYJAqwgTVPTQ==",
-  "releaseNotes": "Cadastro de placa usa TRAÇÃO. Espera mínima da busca de placa reduzida para dois segundos, mantendo validação e readback.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.12/MLDDS-4.1.12-Setup.exe",
+  "sha256": "a4d61617eaeab0b36ca99ba8337c97e6e41186f3055550ecdd915d7641a3e85f",
+  "signature": "uOrdLxtfB8iq1+U817HV/I0XzuPNAzGg1kvJph3s+0qdjMHvTImUra8Nxv31XyAiinLDhCC2rSa52wZSNva+1w==",
+  "releaseNotes": "MLDDS 4.1.12 com nova chave do canal estável. Instalação manual inicial para migrar o atualizador.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.12"
