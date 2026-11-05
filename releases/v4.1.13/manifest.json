@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "4.1.13",
+  "releaseDate": "2026-11-05T14:07:38.2763769+00:00",
+  "minimumSupportedVersion": "3.0.0",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.13/MLDDS-4.1.13-Setup.exe",
+  "sha256": "7def21f68a2df7f10d9d34956b40b1be65658b8f2c7153bc63d54dc941194d68",
+  "signature": "R6pGwQCqDGb2Hd8PEZRlEMMqch/PR2cBXP1ZSGRsRzQOrVZ5qDxAkUEYYt3jDkybELRJ3HIR59jfiZ+D0cwLHA==",
+  "releaseNotes": "Sincronização Turso recuperada, controles da operação atualizados, atualização da Pesquisa por roteirizações concluídas e correções de Save e navegação.",
+  "mandatory": false,
+  "channel": "stable",
+  "extensionVersionRequired": "2.0.12"
+}
