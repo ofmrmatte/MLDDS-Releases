@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "4.1.14",
+  "releaseDate": "2026-11-10T18:57:40.2801603+00:00",
+  "minimumSupportedVersion": "3.0.0",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.14/MLDDS-4.1.14-Setup.exe",
+  "sha256": "35d9d5362ba10ceb1262b72a850d426ee1b91e132c006f337cb96b8218374138",
+  "signature": "l89rTYbOgc6Fg0iAap5WfNHnORpZPlP7LcCeGKFld3OnvBazlsKLrkYCGlbL/js29NLZFdBTd5NBhNxMy2xF5Q==",
+  "releaseNotes": "Alteração de Ciclo por planilha, roteirização compartilhada entre Operação e Cadastro Méli, seleção de motorista por CPF e operação, correções de modais e de regras.",
+  "mandatory": false,
+  "channel": "stable",
+  "extensionVersionRequired": "2.0.12"
+}
