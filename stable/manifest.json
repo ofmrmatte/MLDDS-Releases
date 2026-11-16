@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.14",
-  "releaseDate": "2026-11-10T18:57:40.2801603+00:00",
+  "version": "4.1.15",
+  "releaseDate": "2026-11-16T18:06:52.7539528+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.14/MLDDS-4.1.14-Setup.exe",
-  "sha256": "35d9d5362ba10ceb1262b72a850d426ee1b91e132c006f337cb96b8218374138",
-  "signature": "l89rTYbOgc6Fg0iAap5WfNHnORpZPlP7LcCeGKFld3OnvBazlsKLrkYCGlbL/js29NLZFdBTd5NBhNxMy2xF5Q==",
-  "releaseNotes": "Alteração de Ciclo por planilha, roteirização compartilhada entre Operação e Cadastro Méli, seleção de motorista por CPF e operação, correções de modais e de regras.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.15/MLDDS-4.1.15-Setup.exe",
+  "sha256": "1235bdf315f7dd1b8ca798520c3f57a56f1c339762bb805c5f792b7c74f4d0a5",
+  "signature": "5mA6Ohyoe9D8iKCInoXSrKLJR8SNAl+ez7nFUKzPT7TodJ3Ke/HEWPofeSf6WaI9wOIeiWPhZiCf0fMexkdQFA==",
+  "releaseNotes": "Roteirização compartilhada entre Operação e Cadastro Méli, captura de origem e cidades, placa Méli, comparação de KM, proteção de foco em segundo plano e telas de configurações, regras e bases simplificadas.",
   "mandatory": false,
   "channel": "stable",
-  "extensionVersionRequired": "2.0.12"
+  "extensionVersionRequired": "2.0.13"
 }
