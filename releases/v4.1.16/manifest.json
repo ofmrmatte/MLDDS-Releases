@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "4.1.16",
+  "releaseDate": "2026-11-16T18:40:49.6314049+00:00",
+  "minimumSupportedVersion": "3.0.0",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.16/MLDDS-4.1.16-Setup.exe",
+  "sha256": "a80b8dcccd80eab50af47d9a74773b372f07f1e63c61119ada6bdfdee55390ec",
+  "signature": "+pwnPAXLCefEMLoCegJd4Ee1NH+fe8peAzpoExcTcJEhNMV1DqwHlsRUzSV1Vg9lFCWZONQzyPJkMOQGMw2aZg==",
+  "releaseNotes": "Corrige a confirmação de alteração da operação no DDS 1.0.1.257, preservando a sequência de três modais, a identidade da minuta e a proteção contra repetição de Save.",
+  "mandatory": false,
+  "channel": "stable",
+  "extensionVersionRequired": "2.0.13"
+}
