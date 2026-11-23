@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.18",
-  "releaseDate": "2026-11-17T16:57:11.8918654+00:00",
+  "version": "4.1.19",
+  "releaseDate": "2026-11-23T14:29:59.3418782+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.18/MLDDS-4.1.18-Setup.exe",
-  "sha256": "efcf450ade4e6824e763142cb8515d185e79b9676c30bb68f3b666410a52f19b",
-  "signature": "W3Z90QbtWFnK1+/GB79u6XM3wzqAjv8jEtj9fILjV3ui2EnSiLNeDQk7IpYcCb8+ZUA0nvuSdfJGSu21VMIS8Q==",
-  "releaseNotes": "Corrige abertura e continuidade de minutas, confirma a parada preservando a retomada, mantém Save confirmado e reavalia abandonos comprovadamente sem gravação.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.19/MLDDS-4.1.19-Setup.exe",
+  "sha256": "c5915750e482682cb0f018eb125823c524a68eecf6d4900c70bca200a9ac510d",
+  "signature": "i4FPtCphWeFdraRR2iVR0Wp9Nm9hwhmFLpi7yVDIn6FMApMFboURz7Mi1hoE0gyqN0942fRBWZDQo+tVx/A9Fw==",
+  "releaseNotes": "Melhora a Pesquisa de Alteração de Ciclo, processa minutas distintas do mesmo ID e mostra ciclos, resultados e previsão em lotes grandes.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.13"
