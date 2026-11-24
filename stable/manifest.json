@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.19",
-  "releaseDate": "2026-11-23T14:29:59.3418782+00:00",
+  "version": "4.1.20",
+  "releaseDate": "2026-11-24T12:42:23.7208395+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.19/MLDDS-4.1.19-Setup.exe",
-  "sha256": "c5915750e482682cb0f018eb125823c524a68eecf6d4900c70bca200a9ac510d",
-  "signature": "i4FPtCphWeFdraRR2iVR0Wp9Nm9hwhmFLpi7yVDIn6FMApMFboURz7Mi1hoE0gyqN0942fRBWZDQo+tVx/A9Fw==",
-  "releaseNotes": "Melhora a Pesquisa de Alteração de Ciclo, processa minutas distintas do mesmo ID e mostra ciclos, resultados e previsão em lotes grandes.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.20/MLDDS-4.1.20-Setup.exe",
+  "sha256": "0c621c5ce586f6e5aba6eaa67ed791821fc2083ba74f7e409fefa489eb02780a",
+  "signature": "rvlLNp/dl3T1Mqwii6onkyBD4dcA6wpE0KwZi5+rsXEtwrTzTFrT+VnB0F2DDo9JD1fDDlrYwEgbcP0qsOIS6A==",
+  "releaseNotes": "Inclui o dia atual na Pesquisa, adia rotas no limite de não visitados, corrige a checagem inicial de Pedágios e mostra atualizações na abertura. Inclui o catálogo de regras aprovadas.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.13"
