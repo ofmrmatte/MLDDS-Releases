@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.20",
-  "releaseDate": "2026-11-24T12:42:23.7208395+00:00",
+  "version": "4.1.21",
+  "releaseDate": "2026-11-24T17:34:52.2562968+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.20/MLDDS-4.1.20-Setup.exe",
-  "sha256": "0c621c5ce586f6e5aba6eaa67ed791821fc2083ba74f7e409fefa489eb02780a",
-  "signature": "rvlLNp/dl3T1Mqwii6onkyBD4dcA6wpE0KwZi5+rsXEtwrTzTFrT+VnB0F2DDo9JD1fDDlrYwEgbcP0qsOIS6A==",
-  "releaseNotes": "Inclui o dia atual na Pesquisa, adia rotas no limite de não visitados, corrige a checagem inicial de Pedágios e mostra atualizações na abertura. Inclui o catálogo de regras aprovadas.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.21/MLDDS-4.1.21-Setup.exe",
+  "sha256": "e52c1b31d7d1e0777823ec07f974d8668594d4995409758e11f4e5e3403abe98",
+  "signature": "2kcRfKZa1WJj3e0GDvFWDTID94IcraaZKks5w41kwYibHPE42+zSrFwLpqvN6UgeftDScBoqXEkH8kvARzdZIg==",
+  "releaseNotes": "Inclui cinco novas regras de cidade, corrige a retomada do Cadastro Méli e o Pedágio em formulários sem Observação. Exibe saída XPT e status da rota no painel.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.13"
