@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.21",
-  "releaseDate": "2026-11-24T17:34:52.2562968+00:00",
+  "version": "4.1.22",
+  "releaseDate": "2026-11-26T13:33:31.4057229+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.21/MLDDS-4.1.21-Setup.exe",
-  "sha256": "e52c1b31d7d1e0777823ec07f974d8668594d4995409758e11f4e5e3403abe98",
-  "signature": "2kcRfKZa1WJj3e0GDvFWDTID94IcraaZKks5w41kwYibHPE42+zSrFwLpqvN6UgeftDScBoqXEkH8kvARzdZIg==",
-  "releaseNotes": "Inclui cinco novas regras de cidade, corrige a retomada do Cadastro Méli e o Pedágio em formulários sem Observação. Exibe saída XPT e status da rota no painel.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.22/MLDDS-4.1.22-Setup.exe",
+  "sha256": "8a429d9585cc7479718f5c2facd5ad8ae393331d985fcc5a01c53a6fe7703b75",
+  "signature": "RfuBEk+orGQnX1cYhVK1f82/AnZuvqzbRAJ330zsSmsrNfNmaC6bGVc6mAG5zuHWRKKoKZoz0MLQGjX0aXr95g==",
+  "releaseNotes": "Corrige a confirmação do lote, pula rotas comprovadamente zeradas e inclui 38 novas regras de roteirização.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.13"
