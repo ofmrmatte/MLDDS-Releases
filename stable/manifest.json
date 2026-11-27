@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "4.1.22",
-  "releaseDate": "2026-11-26T13:33:31.4057229+00:00",
+  "version": "4.1.23",
+  "releaseDate": "2026-11-27T12:33:23.5125924+00:00",
   "minimumSupportedVersion": "3.0.0",
-  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.22/MLDDS-4.1.22-Setup.exe",
-  "sha256": "8a429d9585cc7479718f5c2facd5ad8ae393331d985fcc5a01c53a6fe7703b75",
-  "signature": "RfuBEk+orGQnX1cYhVK1f82/AnZuvqzbRAJ330zsSmsrNfNmaC6bGVc6mAG5zuHWRKKoKZoz0MLQGjX0aXr95g==",
-  "releaseNotes": "Corrige a confirmação do lote, pula rotas comprovadamente zeradas e inclui 38 novas regras de roteirização.",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.23/MLDDS-4.1.23-Setup.exe",
+  "sha256": "d39c618edf9d6261682f5c3332cead556a9ee6c0b4687cef7be2a952619a4f51",
+  "signature": "wWvX7ImTaIT88gpSkK3tGJ7lfs2O40I3SKmpFyG63dQSnWqTtYQRIz7SwJsXG5CizzsBR1gYcUtfDU4sfCytVA==",
+  "releaseNotes": "Adia as rotas de hoje até o Méli confirmar a conclusão, adiciona links do Méli e Google Maps e corrige a recuperação de frete e a contagem de visitas transferidas.",
   "mandatory": false,
   "channel": "stable",
   "extensionVersionRequired": "2.0.13"
