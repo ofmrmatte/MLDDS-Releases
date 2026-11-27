@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "version": "4.1.23",
+  "releaseDate": "2026-11-27T12:33:23.5125924+00:00",
+  "minimumSupportedVersion": "3.0.0",
+  "installerUrl": "https://github.com/ofmrmatte/MLDDS-Releases/releases/download/v4.1.23/MLDDS-4.1.23-Setup.exe",
+  "sha256": "d39c618edf9d6261682f5c3332cead556a9ee6c0b4687cef7be2a952619a4f51",
+  "signature": "wWvX7ImTaIT88gpSkK3tGJ7lfs2O40I3SKmpFyG63dQSnWqTtYQRIz7SwJsXG5CizzsBR1gYcUtfDU4sfCytVA==",
+  "releaseNotes": "Adia as rotas de hoje até o Méli confirmar a conclusão, adiciona links do Méli e Google Maps e corrige a recuperação de frete e a contagem de visitas transferidas.",
+  "mandatory": false,
+  "channel": "stable",
+  "extensionVersionRequired": "2.0.13"
+}
